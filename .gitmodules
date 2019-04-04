@@ -1,0 +1,3 @@
+[submodule "pan"]
+	path = pan
+	url = git@github.com:alikins/ansible_collection_pan.git
